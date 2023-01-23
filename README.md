@@ -9,5 +9,5 @@ pip3 install spacy
 
 python3 -m spacy download en
 
-Then just run the file 'semantic.py'
+Then just run the file 'watch_next.py'
 
